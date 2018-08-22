@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5908e5e0-9838-4bde-af16-e6e4720cb09a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/create-music.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gravity.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solar.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            <state relative-caret-position="322">
+              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -90,6 +88,11 @@
               <item name="withlove" type="b2602c69:ProjectViewProjectNode" />
               <item name="withlove" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="withlove" type="b2602c69:ProjectViewProjectNode" />
+              <item name="withlove" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -103,6 +106,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\xampp\htdocs\withlove\images" />
       <recent name="I:\xampp\htdocs\withlove" />
     </key>
   </component>
@@ -129,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1534906635975</updated>
       <workItem from="1534906638561" duration="29000" />
-      <workItem from="1534906986771" duration="3590000" />
+      <workItem from="1534906986771" duration="4486000" />
     </task>
     <task id="LOCAL-00001" summary="test auto deploy">
       <created>1534909314293</created>
@@ -152,11 +156,32 @@
       <option name="project" value="LOCAL" />
       <updated>1534913806262</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test auto deploy">
+      <created>1534913943141</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534913943141</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test auto deploy">
+      <created>1534913983880</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534913983880</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test auto deploy">
+      <created>1534914129161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1534914129161</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3619000" />
+    <option name="totallyTimeSpent" value="4515000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -224,8 +249,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        <state relative-caret-position="322">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding />
         </state>
       </provider>
